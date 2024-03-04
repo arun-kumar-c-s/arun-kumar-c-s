@@ -12,7 +12,8 @@ I'm a Data Scientist working with Generative AI and NLP applications, and my jou
 ### ✍️ A quote that resonate with me
 > "...you boil things down to the most fundamental truths … and then reason up from there." - Elon Musk
 
-### 😂😂
+
+
 <img src='https://github.com/arun-kumar-c-s/arun-kumar-c-s/raw/main/meme.jpg' style="height: 400px;"/>
 
 <!--
