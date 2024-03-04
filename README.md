@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm a Data Scientist with a deep passion for Generative AI and NLP applications, and my journey with Python started back in 2016 as a hobby. What began as a curious exploration into coding has since evolved into a core part of my professional and academic pursuits. Over the years, I've harnessed Python for a myriad of personal projects, and it's been instrumental in my work as a consultant and during my AI/ML course. My fascination with Python has only grown, diving deep into its potential as I embarked on my consulting career.<br>
+I'm a Data Scientist working with Generative AI and NLP applications, and my journey with Python started back in 2016 as a hobby. What began as a curious exploration into coding has since evolved into a core part of my professional and academic pursuits. Over the years, I have done tons of personal projects, and helped me to make a gradual transition from Mechanical Engineering to Artificial Intelligence.<br>
 
 
 ## 🌐 Socials:
